@@ -44,11 +44,11 @@ const Home = () => {
                         </Typography>
                     </motion.div>
                     <Typography variant="h5" gutterBottom sx={{ fontSize: { xs: '1.1rem', sm: '1.5rem' } }}>
-                        Aspiring Software Developer
+                        Aspiring Fullstack Developer
                     </Typography>
                     <Container disableGutters sx={{ maxWidth: 'md', px: { xs: 0, sm: 2 } }}>
                         <Typography variant="body1" sx={{ mb: 3, fontSize: { xs: '0.95rem', sm: '1.1rem' } }}>
-                            My name is Saran S. V, and I am a final-year student of computer science engineering who is enthusiastic about software engineering and web development. During my internship at AgileTribers, I helped with ongoing ERP and reverse osmosis projects. Making a difference in the tech industry and being a successful software developer are my objectives.
+                            My name is Maria Sneka, and I have a 1 year of Experience who is enthusiastic about software engineering and web development. During my internship at AgileTribers, I helped with ongoing ERP and reverse osmosis projects. Making a difference in the tech industry and being a successful software developer are my objectives.
                         </Typography>
                     </Container>
                 </Box>
